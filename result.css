@@ -1,0 +1,87 @@
+﻿#R_card {
+    width: 455px;
+    height: 410px;
+    border: solid 1px #979797;
+    background-color: #F2C3A7;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    border-radius: 10px
+}
+
+#E_card {
+    width: 450px;
+    height: 260px;
+    font-family: Noto Serif KR;
+    font-size: 16px;
+    font-weight: lighter;
+    line-height: 25px;
+    border: solid 1px #979797;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -1px;
+    background-color: #fbe6d4;
+    border-radius: 10px 10px 4px 4px;
+    text-align: left;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 10px;
+}
+
+#Total_card {
+    background-color: white;
+    width: 480px;
+    height: 1370px;
+    border: solid 1px #979797;
+    margin-top: 50px;
+    border-radius: 5px;
+    display: grid;
+    margin: auto;
+}
+
+#M_card {
+    width: 450px;
+    height: 650px;
+    font-family: Noto Serif KR;
+    font-size: 16px;
+    font-weight: lighter;
+    line-height: 25px;
+    border: solid 1px #979797;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -1px;
+    background-color: #fdf3e9;
+    border-radius: 10px 10px 4px 4px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 10px;
+    text-align: center;
+}
+
+#R {
+    width: 180px;
+    height: 0px;
+    font-family: Jua;
+    font-size: 25px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: 3px;
+    text-align: center;
+    color: var(--black);
+    margin-top: 20px;
+    position: relative;
+    top: 20px;
+}
+
+#P {
+    position: relative;
+    top: 50px;
+    place-content: center;
+}
+
+#M {
+    font-family: Jua;
+    font-size: 20px;
+}
